@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CaptainBatista
 - 👀 I’m interested in a lot of things
 - 🌱 I’m currently learning node.js
-- 💞️ I’m looking to collaborate on anyting interesting
+- 💞️ I’m looking to collaborate on skynet
 - 📫 How to reach me sbatista.mail@gmail.com
 
 <!---
